@@ -98,7 +98,7 @@ PWSID - pulbic water system Id.
 
 _https://medium.com/@mbostock/command-line-cartography-part-2-c3a82c5c0f3_
 
-From Datamade's Data Making Guidelines:
+From Datamade's [Data Making Guidelines](https://github.com/datamade/data-making-guidelines):
 
 1. Never destroy data - treat source data as immutable, and show your work when you modify it
 1. Be able to deterministically produce the final data with one command
