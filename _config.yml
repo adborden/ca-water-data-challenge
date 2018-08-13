@@ -1,0 +1,15 @@
+title: CA Water Data Challenge
+email: adborden@a14n.net
+description: >-
+  Map public water systems in California.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: adborden
+github_username:  adborden
+
+# Build settings
+source: src
+markdown: kramdown
+theme: alembic-jekyll-theme
+plugins:
+  - jekyll-feed

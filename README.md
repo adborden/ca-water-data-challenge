@@ -105,3 +105,20 @@ From Datamade's [Data Making Guidelines](https://github.com/datamade/data-making
 1. Write as little custom code as possible
 1. Use standard tools whenever possible
 1. Keep source data under version control
+
+
+## Development
+
+Install the dependencies.
+
+    $ make setup
+
+Build the site.
+
+    $ make build
+
+Start the development server.
+
+    $ make serve
+
+Open your web browser to [http://localhost:4000](http://localhost:4000/).
