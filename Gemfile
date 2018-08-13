@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.6.2"
-gem "alembic-jekyll-theme", "~> 3.0"
+gem "github-pages", "~> 190"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
