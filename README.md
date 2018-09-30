@@ -87,6 +87,16 @@ https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c
 
 PWSID - pulbic water system Id.
 
+Federal Water System Type:
+- C - Community Serves at least 15 service connections used
+by year-round residents or regularly serves 25 year-round
+residents.
+- NTNC - Non-Transient Non-Community Serves at least the
+same 25 non-residential individuals during 6 months of the
+year.
+- NC - Transient Non-Community Regularly serves at least 25
+non-residential individuals (transient) during 60 or more days
+per year. 
 
 ## Principles
 
